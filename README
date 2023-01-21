@@ -1,0 +1,12 @@
+# MLOps Stack To Try
+This repo is the place I study all the components I have planned to try and use to create a machine learning pipeline. The components consist of libraries and frameworks that handle different tasks that are needed to be done when creating and maintaining a machine learning pipeline.
+
+The tools are:
+1. Jupyter Notebook (skipped)
+2. Dask
+3. MLFlow
+4. DVC
+5. Git (skipped)
+6. ZenML
+7. Seldon Core
+8. Evidently
